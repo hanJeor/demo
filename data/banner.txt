@@ -1,0 +1,8 @@
+[[{background:"#00257e",src:"banner/banner1.jpg"}],
+ [{background:"#4a00db", src:"banner/banner2.jpg"}],
+ [{background:"#97baf0",src:"banner/banner3.jpg"}],
+ [{background:"#59369a", src:"banner/banner4.jpg"}],
+ [{background:"#9ee8c7", src:"banner/banner5.jpg"}],
+ [{background:"#eaeff5", src:"banner/banner6.jpg"}],
+ [{background:"#000000", src:"banner/banner7.jpg"}],
+ [{background:"#e3e3e3", src:"banner/banner8.jpg"}]]
